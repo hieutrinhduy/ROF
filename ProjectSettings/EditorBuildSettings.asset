@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Game/Scenes/Menu.unity
+    guid: bdbfdcc4460faba49adb0ee670da2bb4
+  - enabled: 1
+    path: Assets/Game/Scenes/CutScene.unity
+    guid: 5eb3228de5ebea14583acac3070e0123
+  - enabled: 1
+    path: Assets/Game/Scenes/Stage1.1.unity
+    guid: d55ce76773f0d9947a90ccebd5b929e8
+  - enabled: 1
+    path: Assets/Game/Scenes/Stage1.2.unity
+    guid: 59fc8b7f851a48747bfb20da4e8682a9
+  - enabled: 1
+    path: Assets/Game/Scenes/Stage1.3.unity
+    guid: ff557244335488749af4591827727cf5
+  - enabled: 1
+    path: Assets/Game/Scenes/Stage1.3.1.unity
+    guid: 64b11d00717886d4d9f992aea176c91e
+  - enabled: 1
+    path: Assets/Game/Scenes/CutSceneStage1.3.unity
+    guid: f1b61431da9b2f946b4b4ed8b5704335
+  - enabled: 1
+    path: Assets/Game/Scenes/CutSceneStage1.3(BossTransform).unity
+    guid: 866452fd4ba93c348869fb909f842d7a
+  - enabled: 1
+    path: Assets/Game/Scenes/Stage1.3.2.unity
+    guid: 9dbe0d1a2448804448b2f3b18193535a
+  - enabled: 1
+    path: Assets/Game/Scenes/Stage2.1.unity
+    guid: 382a3ac6732fa3f47a280d828a3b6d91
+  m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
